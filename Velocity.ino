@@ -6,7 +6,7 @@
 #define SCREEN_HEIGHT 64
 #define OLED_RESET    -1
 #define SCREEN_ADDRESS 0x3C
-#define SDA_PIN 21
+#define SDA_PIN 21 
 #define SCL_PIN 22
 
 
